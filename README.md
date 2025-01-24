@@ -10,7 +10,7 @@
   - [Analyze network attacks using tcpdump log files](https://github.com/prettysalomon/Network-traffic-Analysis/blob/main/README.md).
   - [Analyze network attacks using Wireshark TCP/HTTP log](https://github.com/prettysalomon/Analyze-network-attacks-Wireshark-TCP-HTTP-log.).
   - [ Apply OS hardening techniques](https://github.com/prettysalomon/Apply-OS-Hardening-Techniques/blob/main/README.md).
-  - [Analysis of Network hardening]()
+  - [Analysis of Network hardening](https://github.com/prettysalomon/Analysis-of-network-hardening/blob/main/README.md).
   - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries).
 
 <h2> 📄 Certifications </h2>
