@@ -6,7 +6,7 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  -  [Conduct a Security Audit]
+  -  [Conduct a Security Audit](https://github.com/prettysalomon/Conduct-a-Security-Audit)
   - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries)
   - [Cybersecurity Incident Report: Network Traffic Analysis !]
   - [Analyze network attacks]
