@@ -6,9 +6,10 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  -  [Conduct a Security Audit](https://github.com/prettysalomon/Conduct-a-Security-Audit)
-  - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries)
-  - [Analyze network attacks](https://github.com/prettysalomon/Network-traffic-Analysis/blob/main/README.md)
+  -  [Conduct a Security Audit](https://github.com/prettysalomon/Conduct-a-Security-Audit).
+  - [Analyze network attacks using tcpdump log files](https://github.com/prettysalomon/Network-traffic-Analysis/blob/main/README.md).
+  - [Analyze network attacks using Wireshark TCP/HTTP log]().
+  - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries).
 
 <h2> 📄 Certifications </h2>
 
