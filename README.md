@@ -1,8 +1,12 @@
-<h1>Hi, I'm Pretty Salomon! 
+<h1>Hi, I'm Pretty Salomon! <h1>
+
+<h2> About Me </h2>
+<b>I am a highly motivated and detail-oriented cybersecurity professional with a strong foundation in network security, threat detection, and risk management. I am very passionate about safeguarding digital assets and ensuring the confidentiality, integrity, and availability of critical information. I value continuous learning, ethical responsibility, and problem-solving to help organizations stay secured against evolving cyber threats. My technical skills and dedication to cybersecurity best practices empower me to contribute to strengthening security postures and mitigating potential risks effectively.<b /> 
+<br /> Apart from that , i like to workout. I used to coach at the gym and helped 50+ individuals attaint thier body goals. <br /> 
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Praciting DS & Algos in Python]
+  -  [Conduct a Security Audit]
   - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries)
   - [Cybersecurity Incident Report: Network Traffic Analysis !]
   - [Analyze network attacks]
