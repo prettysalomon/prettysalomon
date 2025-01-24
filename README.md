@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
   - [Praciting DS & Algos in Python]
-  - [Apply SQL filter queries]
+  - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries)
   - [Cybersecurity Incident Report: Network Traffic Analysis !]
   - [Analyze network attacks]
 
