@@ -9,9 +9,9 @@
   -  [Conduct a Security Audit](https://github.com/prettysalomon/Conduct-a-Security-Audit).
   - [Analyze network attacks using tcpdump log files](https://github.com/prettysalomon/Network-traffic-Analysis/blob/main/README.md).
   - [Analyze network attacks using Wireshark TCP/HTTP log](https://github.com/prettysalomon/Analyze-network-attacks-Wireshark-TCP-HTTP-log.).
-  - [ Apply OS hardening techniques](https://github.com/prettysalomon/Apply-OS-Hardening-Techniques/blob/main/README.md).
+  - [Apply OS hardening techniques](https://github.com/prettysalomon/Apply-OS-Hardening-Techniques/blob/main/README.md).
   - [Analysis of Network hardening](https://github.com/prettysalomon/Analysis-of-network-hardening/blob/main/README.md).
-  - [ Use the NIST Cybersecurity Framework to respond to a security incident]().
+  - [Use the NIST Cybersecurity Framework to respond to a security incident](https://github.com/prettysalomon/Use-the-NIST-Cybersecurity-Framework-to-respond-to-a-security-incident/edit/main/README.md).
   - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries).
 
 <h2> 📄 Certifications </h2>
