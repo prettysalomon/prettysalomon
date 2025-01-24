@@ -8,8 +8,7 @@
 
   -  [Conduct a Security Audit](https://github.com/prettysalomon/Conduct-a-Security-Audit)
   - [Apply SQL filter queries](https://github.com/prettysalomon/Apply-SQL-filter-queries)
-  - [Cybersecurity Incident Report: Network Traffic Analysis !]
-  - [Analyze network attacks]
+  - [Analyze network attacks](https://github.com/prettysalomon/Network-traffic-Analysis/blob/main/README.md)
 
 <h2> 📄 Certifications </h2>
 
