@@ -16,17 +16,21 @@
 
 <h2> 📄 Certifications </h2>
 
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/1JUY1VNB7RS7)
+-[Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/1JUY1VNB7RS7)
 
-- [Network Defense](https://www.credly.com/badges/93afa4ff-861d-4fa3-8cb1-bf2a7fd0a823/linked_in_profile)
+-Cisco Certified Network Associate Routing and Switching(CCNA)
 
-- [Cyber Incident Response](https://www.coursera.org/account/accomplishments/verify/TCM94SN6S022)
+-Cisco Certified Support Technician
 
-- [Introduction To Cybersecurity](https://www.credly.com/badges/3cafca3d-5217-4072-8e97-e932cb347b84/linked_in_profile)
+-[Network Defense](https://www.credly.com/badges/93afa4ff-861d-4fa3-8cb1-bf2a7fd0a823/linked_in_profile)
 
-- [Stages of Incident response](https://www.coursera.org/account/accomplishments/verify/7ZDAMFSHCM1W)
+-[Cyber Incident Response](https://www.coursera.org/account/accomplishments/verify/TCM94SN6S022)
 
-- Cisco Certified Network Associate Routing and Switching(CCNA)
+-[Introduction To Cybersecurity](https://www.credly.com/badges/3cafca3d-5217-4072-8e97-e932cb347b84/linked_in_profile)
+
+-[Stages of Incident response](https://www.coursera.org/account/accomplishments/verify/7ZDAMFSHCM1W)
+
+
 
   
 
